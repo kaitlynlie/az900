@@ -1,8 +1,3 @@
-# Blueprints
-
-Created: May 27, 2025 9:17 PM
-Tags: am
-
 package of various artifacts
 
 centralized storage for organizing approved design patterns

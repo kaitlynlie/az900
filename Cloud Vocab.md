@@ -1,8 +1,3 @@
-# Cloud Vocab
-
-Created: May 18, 2025 3:35 PM
-Tags: am
-
 cloud computing: storage, compute power, networking, analytics over internet
 
 ## key characteristics:

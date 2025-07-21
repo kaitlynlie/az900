@@ -1,8 +1,3 @@
-# Conditional access
-
-Created: May 14, 2025 8:55 PM
-Tags: identity
-
 tool that Microsoft Entra ID uses to allow resources based on identity signals: who, where, what device user is requesting access from
 
 helps IT empower users to be productive and protect organizations assets

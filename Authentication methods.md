@@ -1,8 +1,3 @@
-# Authentication methods
-
-Created: May 11, 2025 9:49 PM
-Tags: identity
-
 ## Authentication
 
 process of establishing identity of person, service, device

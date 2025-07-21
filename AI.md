@@ -1,8 +1,3 @@
-# AI
-
-Created: May 22, 2025 8:14 PM
-Tags: am
-
 Azure Cognitive Services
 
 prebuilt models

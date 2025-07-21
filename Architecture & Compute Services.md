@@ -1,8 +1,3 @@
-# Architecture & Compute Services
-
-Created: June 1, 2025 9:06 PM
-Tags: training
-
 regions: one or more datacenters in close proximity
 
 availability zone: physically separate datacenters within same region

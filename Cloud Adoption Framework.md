@@ -1,8 +1,3 @@
-# Cloud Adoption Framework
-
-Created: May 27, 2025 9:41 PM
-Tags: am
-
 set of tools, best practices
 
 stages:

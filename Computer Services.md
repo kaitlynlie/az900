@@ -1,8 +1,3 @@
-# Computer Services
-
-Created: May 20, 2025 8:32 PM
-Tags: am
-
 category of on-demand services used to run cloud-based apps
 
 ## virtualization

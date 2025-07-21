@@ -1,8 +1,3 @@
-# Containers
-
-Created: May 10, 2025 10:43 AM
-Tags: network
-
 multiple instances of an app on single host machine, virtualization environment, don’t manage OS
 
 ## Azure Container Instances

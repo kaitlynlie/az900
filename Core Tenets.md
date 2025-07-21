@@ -1,8 +1,3 @@
-# Core Tenets
-
-Created: May 28, 2025 7:29 PM
-Tags: am
-
 ## Microsoft Privacy Statement
 
 collection, purpose, usage of personal data for all MS offers

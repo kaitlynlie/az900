@@ -1,8 +1,3 @@
-# Azure Regions & Availability Zones
-
-Created: May 18, 2025 7:42 PM
-Tags: am
-
 regions: geographical area on the planet
 
 all azure regions have a region pair but regions always have exactly one pair assigned

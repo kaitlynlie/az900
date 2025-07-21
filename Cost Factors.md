@@ -1,8 +1,3 @@
-# Cost factors
-
-Created: May 16, 2025 9:46 PM
-Tags: manage
-
 shifts development costs from capital expense (CapEx) of building out and maintaining infrastructure and facilities to an operational expense (OpEx)
 
 OpEx cost:
