@@ -1,1 +1,1 @@
-centralized management for desktop via Entra ID, data/apps separated from hardware
+zcentralized management for desktop via Entra ID, data/apps separated from hardware
